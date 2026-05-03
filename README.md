@@ -1,5 +1,5 @@
 ```markdown
-#  Churn Prediction System (V2 - Production Ready)
+#  Churn Prediction System
 
 A complete end-to-end Machine Learning system for predicting customer churn.  
 This project demonstrates how to transform raw customer data into a production-ready ML service with feature engineering, training pipeline, evaluation layer, and REST API deployment.
