@@ -1,5 +1,3 @@
-Voici ton **README.md prêt à copier-coller (Churn System V2)** 👇
-
 ```markdown
 #  Churn Prediction System (V2 - Production Ready)
 
